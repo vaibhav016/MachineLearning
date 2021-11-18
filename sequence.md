@@ -95,15 +95,13 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Lab: [Genetic analysis of Down's syndrome in mice](./unit06_logistic/lab_gene_partial.ipynb)
         * Problems: [[pdf]](./unit06_logistic/prob/prob_logistic.pdf)
 
-`------Materials below are outdated and will be updated before each class.------`
-
 * [Unit 7:  Nonlinear optimization](./unit07_optim/readme.md)
     * Lecture:  Nonlinear optimization and gradient descent
     [[pdf]](./lectures/Lect07_Optim.pdf)
     [[Powerpoint]](./lectures/Lect07_Optim.pptx)     
     * Demo 1: [Computing gradients](./unit07_optim/demo1_computing_gradients.ipynb)
     * Demo 2: [Simple gradient descent optimization](./unit07_optim/demo2_grad_descent.ipynb)    
-    * Homework (Due on March 26, 23:59 PM ET) 
+    * Homework (No submission required! Solution will be released early for you to prepare for the exam.) 
         * Lab: [Nonlinear least squares material modeling](./unit07_optim/lab_nlls_partial.ipynb)
         * Problems: [[pdf]](./unit07_optim/prob/prob_optim.pdf)
 
@@ -112,7 +110,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     [[Powerpoint]](./lectures/Lect08_SVM.pptx)       
     * Demo 1: [MNIST digit classification](./unit08_svm/demo_mnist_svm.ipynb)
     * Demo 2: [Visualizing kernels](./unit08_svm/demo2_kernels.ipynb)
-    * Homework (Due on April 5, 23:59 PM ET) 
+    * Homework (Due on Nov 10, 23:59 PM ET) 
         * Lab: [Extended MNIST with letters](./unit08_svm/lab_emnist_partial.ipynb)    
         * Problems: [[pdf]](./unit08_svm/prob/prob_svm.pdf)
 
@@ -123,10 +121,17 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Demo 1: [First neural network in Keras](./unit09_neural/demo1_synthetic.ipynb)
     * Demo 2: [MNIST neural network classification](./unit09_neural/demo2_mnist_neural.ipynb)
     * In-class:[Exercise](./unit09_neural/neural_inclass.ipynb)
-    * Homework (Due on April 12, 23:59 PM ET) 
+    * Homework (Due on Nov 17, 23:59 PM ET) 
         * Lab: [Music instrument classification](./unit09_neural/lab_music_partial.ipynb)
         * Problems: [[pdf]](./unit09_neural/prob/prob_neural.pdf)
 
+* [Course projects](./projects/readme.md)
+    * Final Exam will be on Dec 15 @6PM.
+    * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
+    * Due on the Dec 22, 23:59 PM ET. One or two students in a project group.
+    * List of suggested project topics can be found [here](./projects/readme.md). 
+        * Recently published paper + existing code as a starting point for your projects, you need to extend it.
+        * You are free to choose a topic not listed here.
 
 * [Unit 10:  Convolutional and deep networks](./unit10_cnn/readme.md)
     * Lecture:  Convolutional and deep networks
@@ -138,10 +143,13 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * [Demo 3: Exploring the deep VGG16 network](./unit10_cnn/demo3_vgg16.ipynb)
     * [Demo 4: Building an image classifier using CIFAR10 dataset](./unit10_cnn/demo4_classifier.ipynb)
     * [Demo 5: Building an autoencoder for image denoising using CIFAR10 dataset](./unit10_cnn/demo5_autoencoder.ipynb)
-    * Homework (Due on April 26, 23:59 PM ET) 
+    * Homework (Due on November 24, 23:59 PM ET) 
         * Lab: [Transfer learning with a pre-trained network](./unit10_cnn/lab_fine_tune_partial.ipynb)
     (GPU recommended)
         * Problems: [[pdf]](./unit10_cnn/prob/prob_cnn.pdf)
+
+`------Materials below are outdated and will be updated before each class.------`
+
 
 * [Unit 11:  PCA](./pca/readme.md)
     * Lecture:  PCA [[pdf]](./lectures/Lect11_PCA.pdf) [[Powerpoint]](./lectures/Lect11_PCA.pptx)          
@@ -166,11 +174,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Homework (***Will NOT be graded***)   
         * Homework [[pdf]](./unit13_tree/prob/prob_tree.pdf)
 
-* [Course projects](./projects/readme.md)
-    * Course project is OPTIONAL. It consists 20% of your total grade. If you choose not to do it, I will take the higher grade of your midterm and final exams, and use it for your project grade.
-    * Due on the Friday after the final exam. Up to 2 students in a project group.
-    * List of suggested project topics can be found in a directory named projects on the course repo. 
-        * Recently published paper + existing code as a starting point for your projects, you need to extend it.
 
 
 
